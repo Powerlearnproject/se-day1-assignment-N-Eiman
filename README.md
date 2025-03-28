@@ -146,12 +146,12 @@ Reduces post-release defects and customer dissatisfaction.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
-Giving instructions to AI models to prompt an accurate and relevant response 
+If you want an AI model to do exactly what you want/need, you must know how to talk to it (give instructions that are structured to produce desired results)
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague: Write an essay?
+
 Improved: Write an essay about the state of the nation address, include the following points which were par of the address, like Job employment opportunities to be created for the year 2025 and allocated Budget for the Information Technology bursaries
 
